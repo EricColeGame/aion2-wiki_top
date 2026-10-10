@@ -6,15 +6,7 @@
     "description": "Explore Aion 2 Wiki with detailed class guides, builds, characters, combat systems, PvE raids, PvP tips, and the latest MMORPG updates.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {
-    "guide": "Guide",
-    "classes": "Classes",
-    "mechanics": "Mechanics",
-    "items": "Items",
-    "servers": "Servers",
-    "characters": "Characters",
-    "controls": "Controls"
-  },
+  "nav": {},
   "home": {
     "meta": {
       "title": "Aion 2 Wiki - Classes, Builds & Guides",
@@ -427,32 +419,11 @@
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   },
-  "guide": {
-    "overviewTitle": "Aion 2 Guides & Progression",
-    "overviewDescription": "Complete walkthroughs, leveling routes, quest progression strategies, and beginner tips for Aion 2."
-  },
-  "classes": {
-    "overviewTitle": "Aion 2 Classes & Builds",
-    "overviewDescription": "In-depth class overviews, meta builds, ability tier lists, and role synergies in Aion 2."
-  },
-  "mechanics": {
-    "overviewTitle": "Aion 2 Combat & Game Mechanics",
-    "overviewDescription": "Comprehensive mechanics breakdowns including Ascension Gauge, Abyss combat, Spacetime Rifts, and open-world PvP."
-  },
-  "items": {
-    "overviewTitle": "Aion 2 Items & Currencies",
-    "overviewDescription": "Complete resource database covering Daevanion skills, Quna currency, refining stones, and gear enhancement in Aion 2."
-  },
-  "servers": {
-    "overviewTitle": "Aion 2 Servers & Launch Info",
-    "overviewDescription": "Global release timelines, server population status, region rules, and cross-server features for Aion 2."
-  },
-  "characters": {
-    "overviewTitle": "Aion 2 Characters & Factions",
-    "overviewDescription": "Explore character creation, Elyos versus Asmodian faction warfare, racial passives, and flight customization in Aion 2."
-  },
-  "controls": {
-    "overviewTitle": "Aion 2 Controls & Settings",
-    "overviewDescription": "Optimized PC keybindings, controller layout settings, camera sensitivity configurations, and performance optimization for Aion 2."
-  }
+  "guide": {},
+  "classes": {},
+  "mechanics": {},
+  "items": {},
+  "servers": {},
+  "characters": {},
+  "controls": {}
 }
