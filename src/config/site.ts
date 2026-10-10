@@ -13,24 +13,24 @@ export interface SiteConfig {
     youtube?: string;
     twitter?: string;
     tiktok?: string;
+    reddit?: string;
   };
   locales: readonly string[];
   defaultLocale: string;
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Aion 2 Wiki",
+  shortName: "Aion 2",
+  logoText: "A2",
+  tagline: "Classes, Builds, Guides & Raids",
+  description: "Explore Aion 2 Wiki with detailed class guides, builds, characters, combat systems, PvE raids, PvP tips, and the latest MMORPG updates.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://aion2-wiki.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://aion2-wiki.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://aion2.com",
+  heroVideoId: "vZV1pQP09p8", // Aion 2 - Official Gameplay Trailer | gamescom 2026
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    reddit: "https://www.reddit.com/r/aion/",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
