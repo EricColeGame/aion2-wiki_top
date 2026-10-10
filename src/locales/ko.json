@@ -1,1 +1,458 @@
-{}
+{
+  "site": {
+    "name": "아이온 2 위키",
+    "shortName": "아이온 2",
+    "tagline": "직업, 빌드, 공략 및 레이드",
+    "description": "아이온 2(Aion 2) 공식급 팬 위키: 상세한 직업 가이드, 빌드, 캐릭터, 전투 시스템, PvE 레이드, PvP 팁 및 최신 MMORPG 업데이트 정보를 확인하세요.",
+    "legalNotice": "비공식 팬 위키입니다. 플레이어가 플레이어를 위해 제작했습니다."
+  },
+  "nav": {
+    "guide": "가이드",
+    "classes": "직업",
+    "mechanics": "메커니즘",
+    "items": "아이템",
+    "servers": "서버",
+    "characters": "캐릭터",
+    "controls": "조작설정"
+  },
+  "home": {
+    "meta": {
+      "title": "아이온 2 위키 - 직업, 빌드 및 공략",
+      "description": "아이온 2(Aion 2) 상세 직업 가이드, 추천 빌드, 캐릭터 육성, 전투 시스템, 레이드 공략 및 최신 게임 업데이트 정보를 제공합니다."
+    },
+    "hero": {
+      "eyebrow": "차세대 판타지 MMORPG",
+      "title": "아이온 2 위키",
+      "description": "아이온 2는 광활한 오픈월드 탐험, 3차원 입체 비행 전투, 자유로운 캐릭터 커스터마이징, 대규모 요새전과 협동 레이드를 제공하는 엔씨소프트의 차세대 판타지 MMORPG입니다.",
+      "stats": [
+        "1000만+ 관심 플레이어",
+        "8종의 개성 넘치는 직업군",
+        "0개 활성 쿠폰 코드",
+        "매일 업데이트되는 가이드"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "직업 및 빌드",
+      "tertiaryCta": "공식 웹사이트",
+      "videoLabel": "공식 트레일러"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "전체 가이드 둘러보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "시작하기",
+      "title": "아이온 2 여정의 시작",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "기본 조작법, 종족 선택 및 초반 성장 동선에 대한 필수 팁으로 첫날부터 아트레이아를 정복하세요."
+        },
+        {
+          "number": "2",
+          "title": "초고속 레벨업",
+          "description": "미션 퀘스트, 정예 몬스터 사냥터, 시공의 균열 경험치 보너스를 연계해 데바를 효율적으로 육성하세요."
+        },
+        {
+          "number": "3",
+          "title": "직업 및 종족 선택",
+          "description": "천족과 마족의 특징을 비교하고 솔로 플레이나 파티 인던에 최적화된 직업을 선택하세요."
+        },
+        {
+          "number": "4",
+          "title": "키나 및 장비 파밍",
+          "description": "채집 채광 포인트, 강화석 수급처, 주요 재화 파밍 명소를 파악하여 안정적으로 스펙업하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 가이드",
+      "title": "아이온 2 트렌드 공략",
+      "quickLinks": [
+        "초보자 가이드",
+        "직업 티어표",
+        "어비스 PvP",
+        "장비 성장 가이드"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "신규 데바를 위한 핵심 시작 팁, 레벨업 동선 및 전투 메커니즘 총정리.",
+          "href": "/guide/aion-2-beginner-guide"
+        },
+        {
+          "badge": "메타",
+          "title": "직업 티어표",
+          "description": "PvE 던전, 어비스 PvP, 솔로 파밍 전반에 걸친 8개 직업 상세 티어 랭킹.",
+          "href": "/classes/aion-2-class-tier-list"
+        },
+        {
+          "badge": "PvP",
+          "title": "어비스 PvP 메커니즘",
+          "description": "3차원 공중 비행 전투, 비행 게이지 관리 및 대규모 요새전 완벽 공략.",
+          "href": "/mechanics/aion-2-abyss"
+        },
+        {
+          "badge": "종족",
+          "title": "천족 vs 마족 비교",
+          "description": "진영을 선택하기 전 세계관 설정, 외형적 차이, 종족별 특성을 비교해 보세요.",
+          "href": "/characters/aion-2-asmodian-vs-elyos"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "아이온 2는 어떤 게임인가요?",
+      "paragraphs": [
+        "아이온 2(Aion 2)는 엔씨소프트(NCSOFT)가 언리얼 엔진 5로 개발 중인 차세대 정통 판타지 MMORPG로, 분열된 천공의 세계 아트레이아를 배경으로 합니다. 자유로운 3차원 공중 비행 전투와 광활한 수직 월드 탐험, 빛나는 천족과 강인한 마족 간의 대서사적 진영 대립을 선보입니다.",
+        "검성, 수호성, 마도성, 살성, 치유성 등 원작의 대표적인 직업군을 현대적인 액션 콤보 메커니즘으로 계승 발전시켰습니다. 어비스 요새를 둘러싼 치열한 종족 대전부터 정교한 협동 PvE 인스턴스 던전까지, 서버를 넘나드는 대규모 전장과 깊이 있는 장비 세팅 커스터마이징을 경험할 수 있습니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "NCSOFT"
+        },
+        {
+          "label": "엔진",
+          "value": "Unreal Engine 5"
+        },
+        {
+          "label": "장르",
+          "value": "판타지 MMORPG"
+        },
+        {
+          "label": "진영",
+          "value": "천족 vs 마족"
+        },
+        {
+          "label": "직업군",
+          "value": "8종 클래스"
+        },
+        {
+          "label": "전투 방식",
+          "value": "지상 및 공중 PvPvE"
+        }
+      ],
+      "cta": "전체 가이드 탐색"
+    },
+    "explore": {
+      "title": "아이온 2 위키 콘텐츠 탐색",
+      "description": "초보자 성장 가이드, 직업별 빌드, 티어 리스트, 인던 공략, 어비스 요새전, 최신 쿠폰 코드 등 필수 정보를 확인하세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "아이온 2 초보자 가이드",
+          "description": "계정 생성, 종족 선택, 기본 전투 및 이동, 초반 레벨업 우선순위를 다루는 필수 시작 가이드입니다.",
+          "href": "/guide/aion-2-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "데바 캐릭터를 생성하고 천족과 마족 진영 중 하나를 선택하세요"
+            },
+            {
+              "label": "2",
+              "detail": "시작 미션 퀘스트를 완료하여 기본 스킬과 장비를 획득하세요"
+            },
+            {
+              "label": "3",
+              "detail": "10레벨 달성 시 데바 전직을 통해 날개를 획득하고 활강 비행을 해금하세요"
+            },
+            {
+              "label": "4",
+              "detail": "일일 균열 임무, 인스턴스 던전, 키나 재화 관리를 마스터하세요"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "아이온 2 직업 가이드",
+          "description": "8개 전 직업의 전투 역할군, 플레이 스타일, 추천 무기 세팅을 상세히 분석합니다.",
+          "href": "/classes/aion-2-classes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "검성 (Gladiator)",
+              "detail": "양손 창을 휘두르며 강력한 광역 다운 공격을 펼치는 전선 브루저"
+            },
+            {
+              "label": "수호성 (Templar)",
+              "detail": "검과 방패를 들고 파티를 수호하며 적을 도발하는 철벽 방어 탱커"
+            },
+            {
+              "label": "마도성 (Sorcerer)",
+              "detail": "화염과 냉기 원소 마법으로 파괴적인 폭딜을 쏟아붓는 원거리 딜러"
+            },
+            {
+              "label": "살성 (Assassin)",
+              "detail": "은신 잠입 후 쌍단검으로 치명적인 암살 일격을 가하는 기습형 딜러"
+            },
+            {
+              "label": "치유성 (Cleric)",
+              "detail": "강력한 힐, 보호막, 정화 스킬을 보유한 파티의 핵심 서포터"
+            },
+            {
+              "label": "궁성 (Ranger)",
+              "detail": "기동성을 살린 원거리 활 사격과 다양한 덫으로 적을 농락하는 명사수"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "아이온 2 빌드 가이드",
+          "description": "PvE 및 PvP 콘텐츠에 맞춘 장비 세팅, 마석 소켓팅, 스킬 연계 사이클 최적화 추천.",
+          "href": "/classes/aion-2-class-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PvE 딜러",
+              "detail": "인던 보스 공략을 위한 치명타 및 물리/마법 공격력 극대화 세팅"
+            },
+            {
+              "label": "PvP 누커",
+              "detail": "적 플레이어의 방어를 관통하기 위한 마법적중 및 명중 세팅"
+            },
+            {
+              "label": "탱커 방어",
+              "detail": "레이드 보스의 강력한 강타를 견디기 위한 방패방어, 생명력, 피해 감소 세팅"
+            },
+            {
+              "label": "서포터 힐",
+              "detail": "안정적인 파티 케어를 위한 치유량 증가 및 시전속도 최적화 세팅"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "아이온 2 직업 티어표",
+          "description": "파티 인던 공략, 솔로 레벨업 효율, 필드 어비스 PvP 성능을 종합 분석한 직업별 티어 랭킹.",
+          "href": "/classes/aion-2-class-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S-Tier",
+              "detail": "어비스와 인던 공략 모두에서 최고의 파티 기여도를 자랑하는 메타 필수 직업"
+            },
+            {
+              "label": "A-Tier",
+              "detail": "강력한 성능과 높은 유틸성으로 모든 콘텐츠에서 활약하는 우수 직업군"
+            },
+            {
+              "label": "B-Tier",
+              "detail": "숙련도와 적절한 파티 조합에 따라 높은 잠재력을 발휘하는 전문 직업군"
+            },
+            {
+              "label": "전략 조합",
+              "detail": "탱커, 힐러, 메즈 딜러 간의 시너지를 극대화하는 던전 공략 추천 파티 구성"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "아이온 2 던전 및 인스턴스",
+          "description": "보스 공략 메커니즘, 파티 요구조건, 장비 드롭 테이블, 네임드 공략 핵심 팁.",
+          "href": "/guide/aion-2-guide",
+          "displayType": "table",
+          "highlights": [
+            {
+              "label": "입문 인던",
+              "detail": "성장 구간 핵심 희귀 장비와 강화석을 획득할 수 있는 저레벨 던전"
+            },
+            {
+              "label": "영웅 레이드",
+              "detail": "파티원 간 정교한 합과 패턴 브레이크가 요구되는 최고 난이도 보스전"
+            },
+            {
+              "label": "파밍 공략",
+              "detail": "주간 인던 입장 횟수를 효율적으로 활용하여 영웅/유일 장비 파밍"
+            },
+            {
+              "label": "전리품 규칙",
+              "detail": "주사위 분배 및 직업 우선 귀속 시스템에 맞춘 공평한 루팅 가이드"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "아이온 2 PvP 가이드",
+          "description": "천마 종족 전쟁, 시공의 균열 필드 침공, 3D 입체 공중전, 경쟁 투기장 전략 완벽 분석.",
+          "href": "/mechanics/aion-2-pvp",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "어비스 요새전",
+              "detail": "부유도를 배경으로 펼쳐지는 천족과 마족의 대규모 점령전"
+            },
+            {
+              "label": "입체 공중전",
+              "detail": "날개 활공과 비행 가속을 활용한 360도 공중 도그파이트"
+            },
+            {
+              "label": "시공의 균열",
+              "detail": "적대 진영 영토로 직접 침투하여 벌이는 긴장감 넘치는 필드 게릴라전"
+            },
+            {
+              "label": "투기장 매치",
+              "detail": "상태이상 연계와 탈출기 타이밍이 승패를 가르는 1:1 및 3:3 랭크전"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "아이온 2 소식 및 업데이트",
+          "description": "엔씨소프트 공식 발표, 패치 노트, 개발자 라이브 방송 및 글로벌 서비스 로드맵.",
+          "href": "/servers/aion-2-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "글로벌 서비스",
+              "detail": "지역별 서버 클러스터 및 크로스 서버 매칭 시스템 지원"
+            },
+            {
+              "label": "UE5 그래픽",
+              "detail": "차세대 비주얼 퀄리티와 심리스 오픈월드 환경 구현"
+            },
+            {
+              "label": "크로스 플랫폼",
+              "detail": "PC 및 모바일 간 엔씨 퍼플(PURPLE) 기반 완벽 크로스 플레이"
+            },
+            {
+              "label": "업데이트 로드맵",
+              "detail": "론칭 이후 신규 어비스 구역, 신규 던전 및 요새전 일정"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "아이온 2 쿠폰 및 보상",
+          "description": "활성 선물 쿠폰 코드, 사전예약 달성 보상, 무료 게임 재화 및 스펙업 부스트 혜택.",
+          "href": "/items/aion-2-quna",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "AION2LAUNCH",
+              "detail": "500 큐나, 50,000 키나 및 스타터 데바 전직 물약",
+              "badge": "사용가능"
+            },
+            {
+              "label": "DAEVABONUS",
+              "detail": "최상급 비행 비약 3개 및 무기 강화석 10개",
+              "badge": "사용가능"
+            },
+            {
+              "label": "ATREIA2026",
+              "detail": "천족/마족 전용 한정판 코스튬 날개 교환권",
+              "badge": "사용가능"
+            },
+            {
+              "label": "NCSOFTLIVE",
+              "detail": "공식 라이브 방송 기념 선물 상자 및 경험치 부적",
+              "badge": "사용가능"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문 (FAQ)",
+      "description": "아이온 2에 대해 유저분들이 가장 자주 묻는 질문과 답변입니다.",
+      "items": [
+        {
+          "question": "아이온 2는 어떤 게임인가요?",
+          "answer": "아이온 2는 엔씨소프트가 개발한 차세대 하이 판타지 MMORPG로, 3차원 입체 비행 전투, 천족과 마족 간의 대규모 RvR 종족 전쟁, 아트레이아를 배경으로 한 방대한 PvE 콘텐츠가 특징입니다."
+        },
+        {
+          "question": "아이온 2에서는 어떤 진영(종족)을 선택할 수 있나요?",
+          "answer": "플레이어는 눈부신 천계의 천족(Elyos)과 척박한 마계에 적응한 마족(Asmodians) 중 하나를 선택하며, 중앙 어비스의 패권을 두고 대립하게 됩니다."
+        },
+        {
+          "question": "아이온 2의 플레이 가능한 직업은 무엇인가요?",
+          "answer": "검성, 수호성, 살성, 궁성, 마도성, 정령성, 치유성, 호법성 등 8개 원작 대표 직업군을 기반으로 하며, 각 직업마다 고유한 스킬 트리와 파티 시너지를 갖추고 있습니다."
+        },
+        {
+          "question": "아이온 2는 오픈월드 PvP와 공중 전투를 지원하나요?",
+          "answer": "네, 어비스 지역에서의 3차원 비행 공중전은 물론 시공의 균열을 통해 상대 진영 영토로 넘어가 펼치는 필드 게릴라 PvP를 완벽하게 지원합니다."
+        },
+        {
+          "question": "아이온 2를 플레이할 수 있는 플랫폼은 무엇인가요?",
+          "answer": "아이온 2는 고품질 PC 및 모바일 플랫폼을 지원하며, 엔씨소프트의 퍼플(PURPLE) 서비스를 통해 플랫폼 간 교차 플레이와 계정 동기화를 제공합니다."
+        },
+        {
+          "question": "아이온 2 쿠폰 코드는 어떻게 등록하나요?",
+          "answer": "게임 내 설정 메뉴의 쿠폰 입력창이나 공식 홈페이지 계정 관리 페이지에서 쿠폰 번호를 입력하면 인게임 우편함을 통해 키나, 큐나, 물약 등의 보상을 즉시 수령할 수 있습니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "아이온 2에서 날개를 펼칠 준비가 되셨나요?",
+      "description": "아트레이아에서의 첫 비행부터 어비스 요새 정복까지, 완벽한 아이온 2 공략 및 데이터베이스를 만나보세요.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "공식 웹사이트 바로가기"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "활성 쿠폰",
+    "updated": "업데이트",
+    "viewAllCodes": "전체 쿠폰 보기",
+    "playOnRoblox": "공식 웹사이트 바로가기",
+    "inThisSection": "이 섹션의 글",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 추천 글",
+    "relatedGuides": "관련 공략",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "등록된 공략이 없습니다. 곧 업데이트됩니다!"
+  },
+  "footer": {
+    "aboutTitle": "아이온 2 위키",
+    "about": "아이온 2 위키는 직업, 빌드, 성장 동선, PvE 레이드, PvP 전투 및 필수 MMORPG 정보를 제공하는 독립적인 팬 제작 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 Aion 2 Wiki. NCSoft 또는 공식 퍼블리셔와 제휴되지 않았습니다.",
+    "description": "오픈월드 탐험, 3차원 공중 전투, 직업, 빌드 및 레이드를 다루는 차세대 판타지 MMORPG 팬 위키.",
+    "playGame": "공식 웹사이트",
+    "officialDiscord": "커뮤니티 디스코드",
+    "officialYoutube": "공식 유튜브",
+    "vvBuilder": "커뮤니티 레딧",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "종족 가이드",
+    "bossGuides": "보스 가이드",
+    "buildGuide": "빌드 가이드",
+    "privacyPolicy": "개인정보처리방침",
+    "termsOfService": "이용약관"
+  },
+  "guide": {
+    "overviewTitle": "아이온 2 가이드 및 성장 동선",
+    "overviewDescription": "아이온 2 플레이어를 위한 상세 진행 가이드, 레벨업 동선, 퀘스트 공략 및 초보자 팁 모음."
+  },
+  "classes": {
+    "overviewTitle": "아이온 2 직업 및 빌드",
+    "overviewDescription": "아이온 2 전 직업 상세 분석, 메타 빌드 추천, 스킬 티어 리스트 및 파티 시너지 총정리."
+  },
+  "mechanics": {
+    "overviewTitle": "아이온 2 전투 및 시스템 메커니즘",
+    "overviewDescription": "각성 게이지, 어비스 공중전, 시공의 균열, 오픈월드 PvP 등 핵심 시스템 완벽 해설."
+  },
+  "items": {
+    "overviewTitle": "아이온 2 아이템 및 재화",
+    "overviewDescription": "데바니온 스킬, 큐나 화폐, 강화석 수급처 및 장비 강화 시스템 완벽 가이드."
+  },
+  "servers": {
+    "overviewTitle": "아이온 2 서버 및 출시 정보",
+    "overviewDescription": "글로벌 출시 일정, 서버 인구 현황, 지역별 운영 정책 및 크로스 서버 기능 안내."
+  },
+  "characters": {
+    "overviewTitle": "아이온 2 캐릭터 및 진영",
+    "overviewDescription": "캐릭터 커스터마이징, 천족과 마족 종족 전쟁, 종족별 지속 효과 및 날개 비행 외형."
+  },
+  "controls": {
+    "overviewTitle": "아이온 2 조작 및 환경 설정",
+    "overviewDescription": "PC 최적화 키 바인딩, 게임패드 컨트롤러 설정, 카메라 감도 및 그래픽 성능 최적화 가이드."
+  }
+}

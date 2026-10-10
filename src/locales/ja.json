@@ -1,1 +1,458 @@
-{}
+{
+  "site": {
+    "name": "アイオン2 Wiki",
+    "shortName": "アイオン2",
+    "tagline": "クラス・ビルド・攻略ガイド＆レイド",
+    "description": "『アイオン2（Aion 2）』の総合ファンWiki。詳細なクラスガイド、おすすめビルド、キャラクター育成、戦闘システム、PvEレイド、PvPのコツ、最新アプデ情報を網羅。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによって作られたプレイヤーのための情報サイトです。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "classes": "クラス",
+    "mechanics": "システム",
+    "items": "アイテム",
+    "servers": "サーバー",
+    "characters": "キャラクター",
+    "controls": "操作設定"
+  },
+  "home": {
+    "meta": {
+      "title": "アイオン2 Wiki - クラス・ビルド＆攻略ガイド",
+      "description": "『アイオン2（Aion 2）』詳細なクラス解説、最強ビルド、キャラクター育成、戦闘システム、PvEレイド攻略、最新MMORPG情報をお届けします。"
+    },
+    "hero": {
+      "eyebrow": "次世代ファンタジーMMORPG",
+      "title": "アイオン2 Wiki",
+      "description": "『アイオン2』は広大なオープンワールド探索、立体的な空中戦、自由なキャラメイク、大規模PvEレイドやPvP要塞戦を楽しめるNCSOFTの次世代ファンタジーMMORPGです。",
+      "stats": [
+        "1000万人以上の注目",
+        "8種類の多彩なクラス",
+        "0個の有効コード",
+        "毎日更新される攻略情報"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "クラス＆ビルド",
+      "tertiaryCta": "公式サイト",
+      "videoLabel": "公式PVトレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "全ガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "アイオン2の冒険へ",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "基本操作、勢力選択、序盤の育成フローをマスターし、初日からアトレイアを冒険しましょう。"
+        },
+        {
+          "number": "2",
+          "title": "最速レベリング",
+          "description": "メインクエスト、精鋭狩場、時空の亀裂ボーナスを効率よく組み合わせ、ディーヴァを素早く強化。"
+        },
+        {
+          "number": "3",
+          "title": "クラス＆勢力選び",
+          "description": "天族と魔族の違いを比較し、ソロプレイやパーティIDに最適なクラスを見つけましょう。"
+        },
+        {
+          "number": "4",
+          "title": "ギーナ＆装備集め",
+          "description": "採取スポット、強化石の入手場所、主要通貨の金策ルートを把握して着実に戦力強化。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ガイド",
+      "title": "注目のアイオン2攻略",
+      "quickLinks": [
+        "初心者ガイド",
+        "クラスTier表",
+        "アビスPvP",
+        "装備強化ガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "新米ディーヴァ向けの基本知識、レベリングルート、戦闘システムを分かりやすく解説。",
+          "href": "/guide/aion-2-beginner-guide"
+        },
+        {
+          "badge": "メタ",
+          "title": "クラスTier表",
+          "description": "PvEダンジョン、アビスPvP、ソロ狩りにおける全8クラスの最強ランキング。",
+          "href": "/classes/aion-2-class-tier-list"
+        },
+        {
+          "badge": "PvP",
+          "title": "アビスPvPシステム",
+          "description": "3次元の空中戦、飛行ゲージの管理、大規模要塞戦の立ち回り方を徹底解説。",
+          "href": "/mechanics/aion-2-abyss"
+        },
+        {
+          "badge": "勢力",
+          "title": "魔族 vs 天族 比較",
+          "description": "陣営を決める前に知っておきたい世界観、見た目の違い、種族ごとの特徴を比較。",
+          "href": "/characters/aion-2-asmodian-vs-elyos"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "アイオン2とは？",
+      "paragraphs": [
+        "『アイオン2（Aion 2）』は、NCSOFTがUnreal Engine 5を採用して開発を進めている次世代王道ファンタジーMMORPGです。崩壊した天界アトレイアを舞台に、シームレスな3次元空中戦闘、自由度の高い高低差探索、光の天族と闇の魔族による壮大な勢力抗争が描かれます。",
+        "ソードウィング、シールドウィング、スペルウィング、シャドウウィング、キュアウィングなどお馴染みの8クラスを現代風のアクションコンボで刷新。アビスの浮遊要塞を争う大規模RVRから、歯ごたえある協力PvEインスタンスダンジョンまで、クロスサーバーで広がる戦場と多彩なビルドカスタマイズを提供します。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "NCSOFT"
+        },
+        {
+          "label": "エンジン",
+          "value": "Unreal Engine 5"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ファンタジーMMORPG"
+        },
+        {
+          "label": "勢力",
+          "value": "天族 vs 魔族"
+        },
+        {
+          "label": "クラス",
+          "value": "8種類のクラス"
+        },
+        {
+          "label": "バトル",
+          "value": "地上＆空中 PvPvE"
+        }
+      ],
+      "cta": "全ガイドを見る"
+    },
+    "explore": {
+      "title": "アイオン2 Wiki コンテンツ一覧",
+      "description": "初心者育成、クラス別ビルド、Tier表、ダンジョン攻略、アビスPvP、最新シリアルコードなど必須情報を探索。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "アイオン2 初心者ガイド",
+          "description": "アカウント登録、勢力選び、基本アクション、序盤の育成方針など初心者向け総合ガイド。",
+          "href": "/guide/aion-2-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ディーヴァを作成し、天族または魔族の勢力を選択"
+            },
+            {
+              "label": "2",
+              "detail": "序盤のメインクエストを進めて基本スキルと初期装備を入手"
+            },
+            {
+              "label": "3",
+              "detail": "レベル10でディーヴァ転職を完了し翼と滑空飛行を解放"
+            },
+            {
+              "label": "4",
+              "detail": "デイリーの亀裂任務、インスタンスダンジョン、ギーナ管理を把握"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "アイオン2 クラスガイド",
+          "description": "全8クラスの戦闘スタイル、ロール、長所短所、おすすめ武器を詳しく解説。",
+          "href": "/classes/aion-2-classes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ソードウィング",
+              "detail": "長柄武器（ハルバード）を振るい強力な範囲ダウンを繰り出す前線ファイター"
+            },
+            {
+              "label": "シールドウィング",
+              "detail": "剣と盾を構え、挑発と防御スキルで味方を守る鉄壁タンク"
+            },
+            {
+              "label": "スペルウィング",
+              "detail": "火炎と氷結の元素魔法で絶大な瞬間火力を叩き出す遠距離メイジ"
+            },
+            {
+              "label": "シャドウウィング",
+              "detail": "ハイドで背後に忍び寄り、二刀短剣で急所を突く暗殺アタッカー"
+            },
+            {
+              "label": "キュアウィング",
+              "detail": "強力な回復、バリア、デバフ解除を兼ね備えるパーティの要ヒーラー"
+            },
+            {
+              "label": "ボウウィング",
+              "detail": "優れた機動性と多彩な罠を駆使して敵を翻弄する長距離アーチャー"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "アイオン2 ビルドガイド",
+          "description": "PvEやPvPに合わせた装備構成、魔石の穴埋め、スキル回しの最適化おすすめ。",
+          "href": "/classes/aion-2-class-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PvE火力特化",
+              "detail": "ダンジョンボス討伐に向けたクリティカルと物理・魔法攻撃力の優先配分"
+            },
+            {
+              "label": "PvP瞬間バースト",
+              "detail": "敵プレイヤーの耐性を貫通するための魔法命中・命中ステータス確保"
+            },
+            {
+              "label": "タンク耐久",
+              "detail": "ボスの大技を受け止める盾防御、最大HP、被ダメージ軽減の重視"
+            },
+            {
+              "label": "サポート回復",
+              "detail": "味方を安定して支える治癒量増加とスキル詠唱速度の短縮"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "アイオン2 クラスTier表",
+          "description": "パーティダンジョン、ソロ効率、アビスPvPでの活躍度を総合評価したクラスランキング。",
+          "href": "/classes/aion-2-class-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S-Tier",
+              "detail": "ダンジョンでもPvPでも必須とされる環境トップクラス"
+            },
+            {
+              "label": "A-Tier",
+              "detail": "高い性能と安定した立ち回りで全コンテンツで活躍できる強クラス"
+            },
+            {
+              "label": "B-Tier",
+              "detail": "プレイヤーの腕前や編成次第で真価を発揮する特化型クラス"
+            },
+            {
+              "label": "おすすめ編成",
+              "detail": "タンク・ヒーラー・アタッカーの連携を高める理想のダンジョン攻略パーティ"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "アイオン2 ダンジョン攻略",
+          "description": "ボスのギミック解説、パーティ編成条件、ドロップ装備、攻略のポイントを掲載。",
+          "href": "/guide/aion-2-guide",
+          "displayType": "table",
+          "highlights": [
+            {
+              "label": "入門ダンジョン",
+              "detail": "育成段階で手に入る貴重な装備や強化石がドロップする低難度ID"
+            },
+            {
+              "label": "英雄レイド",
+              "detail": "ボスの危険な全体攻撃の回避や連携ギミックが必須の高難度レイド"
+            },
+            {
+              "label": "周回ルート",
+              "detail": "週間入場回数を無駄にせず高レア装備を効率よく集める周回戦略"
+            },
+            {
+              "label": "ロットルール",
+              "detail": "ダイス分配やクラス優先分配に合わせたトラブルのない分配ガイド"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "アイオン2 PvPガイド",
+          "description": "天魔の勢力戦争、時空の亀裂による領地潜入、3次元空中戦、闘技場の対戦戦略。",
+          "href": "/mechanics/aion-2-pvp",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "アビス要塞戦",
+              "detail": "浮遊島を巡って天族と魔族が激突する大規模RvR要塞争奪戦"
+            },
+            {
+              "label": "空中バトル",
+              "detail": "翼による飛行と滑空を駆使した上下自在のドッグファイト"
+            },
+            {
+              "label": "時空の亀裂",
+              "detail": "敵陣営のフィールドへ潜入して奇襲を仕掛けるスリリングな野外PK"
+            },
+            {
+              "label": "闘技場マッチ",
+              "detail": "CC技の連係と離脱スキルの読み合いが鍵を握る個人戦＆チーム戦"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "アイオン2 最新ニュース",
+          "description": "NCSOFT公式発表、パッチノート、生放送まとめ、今後のロードマップ情報。",
+          "href": "/servers/aion-2-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "グローバル展開",
+              "detail": "地域別サーバー群とクロスサーバーマッチング機能の実装"
+            },
+            {
+              "label": "UE5のグラフィック",
+              "detail": "次世代の映像美と広大なオープンフィールド描画"
+            },
+            {
+              "label": "クロスプレイ対応",
+              "detail": "PURPLEを通じたPCとスマホ間のシームレスなデータ連動"
+            },
+            {
+              "label": "ロードマップ",
+              "detail": "正式リリース後の要塞戦スケジュールや新ダンジョン追加予定"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "アイオン2 クーポン＆特典",
+          "description": "有効なシリアルコード、事前登録特典、無料ゲーム内通貨やブーストアイテム情報。",
+          "href": "/items/aion-2-quna",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "AION2LAUNCH",
+              "detail": "500キューナ、50,000ギーナ、スターター覚醒ポーション",
+              "badge": "有効"
+            },
+            {
+              "label": "DAEVABONUS",
+              "detail": "最上級飛行秘薬3個、強化石10個",
+              "badge": "有効"
+            },
+            {
+              "label": "ATREIA2026",
+              "detail": "限定コスメティック翼アバター交換券",
+              "badge": "有効"
+            },
+            {
+              "label": "NCSOFTLIVE",
+              "detail": "公式生放送記念ギフトボックス、経験値お守り",
+              "badge": "有効"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "アイオン2に関してプレイヤーからよく寄せられる質問と回答です。",
+      "items": [
+        {
+          "question": "アイオン2とはどんなゲームですか？",
+          "answer": "アイオン2はNCSOFTが手掛ける次世代ハイファンタジーMMORPGです。空中を自在に飛ぶ3次元戦闘、天族と魔族のRvR大規模戦争、アトレイアの広大なダンジョン攻略が大きな特徴です。"
+        },
+        {
+          "question": "プレイヤーはどの陣営を選べますか？",
+          "answer": "光の天界に住む『天族（Elyos）』と、過酷な環境に適応した『魔族（Asmodians）』の2つの敵対勢力から1つを選び、中央のアビスを巡って戦います。"
+        },
+        {
+          "question": "選べる職業（クラス）には何がありますか？",
+          "answer": "ソードウィング、シールドウィング、シャドウウィング、ボウウィング、スペルウィング、スピリットウィング、キュアウィング、チャントウィングの8系統が登場予定です。"
+        },
+        {
+          "question": "オープンワールドPvPや空中戦はありますか？",
+          "answer": "はい。アビスでの360度空中ドッグファイトはもちろん、時空の亀裂を通じた敵対勢力フィールドへの侵入PvPバトルが楽しめます。"
+        },
+        {
+          "question": "対応プラットフォームは何ですか？",
+          "answer": "高画質なPCおよびモバイル端末向けに展開され、NCSOFTの『PURPLE』プラットフォームを通じたクロスプレイに対応します。"
+        },
+        {
+          "question": "クーポンの入力方法は？",
+          "answer": "ゲーム内の設定メニューにあるクーポン入力画面、または公式サイトのアカウント管理ページからコードを入力することで、ゲーム内ポストに特典が届きます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "アイオン2で空へ羽ばたく準備はできましたか？",
+      "description": "アトレイアでの初飛行からアビスの要塞制覇まで、アイオン2の完全攻略とデータをお役立てください。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "公式サイトへ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新日時",
+    "viewAllCodes": "全コードを見る",
+    "playOnRoblox": "公式サイトへ",
+    "inThisSection": "このセクションの記事",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "おすすめ関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだ登録されていません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "アイオン2 Wiki",
+    "about": "『アイオン2 Wiki』は、クラス、ビルド、育成ルート、PvEレイド、PvP戦術などMMORPGの攻略情報を発信する非公式ファンサイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的情報",
+    "copyright": "2026 Aion 2 Wiki. NCSoftおよび公式パブリッシャーとは提携していません。",
+    "description": "オープンワールド探索、空中戦闘、クラス、ビルド、レイド攻略を網羅する次世代ファンタジーMMORPG情報サイト。",
+    "playGame": "公式サイト",
+    "officialDiscord": "コミュニティDiscord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "コミュニティReddit",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "種族ガイド",
+    "bossGuides": "ボスガイド",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "アイオン2 攻略ガイド＆育成フロー",
+    "overviewDescription": "アイオン2の全体フロー、効率的なレベリング手順、クエスト進行、初心者の心得をまとめた攻略ガイド。"
+  },
+  "classes": {
+    "overviewTitle": "アイオン2 クラス＆最強ビルド",
+    "overviewDescription": "全クラスの特徴、おすすめビルド、スキルTier、パーティシナジーの詳細解説。"
+  },
+  "mechanics": {
+    "overviewTitle": "アイオン2 戦闘＆ゲームシステム",
+    "overviewDescription": "覚醒ゲージ、アビス戦闘、時空の亀裂、フィールドPvPなどの基本・応用システムを解説。"
+  },
+  "items": {
+    "overviewTitle": "アイオン2 アイテム＆ゲーム内通貨",
+    "overviewDescription": "ディーヴァニオン、キューナ、強化石の入手方法や装備強化システムを徹底ガイド。"
+  },
+  "servers": {
+    "overviewTitle": "アイオン2 サーバー＆配信情報",
+    "overviewDescription": "グローバルリリース日程、サーバー混雑状況、地域区分、クロスプレイ機能の詳細。"
+  },
+  "characters": {
+    "overviewTitle": "アイオン2 キャラクター＆勢力",
+    "overviewDescription": "キャラメイク、天族と魔族の対立、種族パッシブ、翼のカスタマイズ要素を解説。"
+  },
+  "controls": {
+    "overviewTitle": "アイオン2 操作方法＆おすすめ設定",
+    "overviewDescription": "PCキー設定、コントローラー配置、カメラ感度、動作を軽くする環境設定の最適解。"
+  }
+}

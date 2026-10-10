@@ -1,1 +1,458 @@
-{}
+{
+  "site": {
+    "name": "永恆之塔2 Wiki",
+    "shortName": "永恆之塔2",
+    "tagline": "職業、配點、攻略與副本",
+    "description": "《永恆之塔2》（Aion 2）全方位玩家攻略維基：收錄詳細職業指南、最強配點、角色養成、戰鬥系統、PvE大型副本、PvP技巧與最新MMORPG情報。",
+    "legalNotice": "非官方社群攻略 Wiki。由玩家打造，為玩家服務。"
+  },
+  "nav": {
+    "guide": "攻略",
+    "classes": "職業",
+    "mechanics": "機制",
+    "items": "道具",
+    "servers": "伺服器",
+    "characters": "角色",
+    "controls": "操作"
+  },
+  "home": {
+    "meta": {
+      "title": "永恆之塔2 Wiki - 職業、配點與攻略",
+      "description": "《永恆之塔2》（Aion 2）全方位攻略 Wiki：詳細職業指南、推薦配點、角色培養、戰鬥機制、副本攻略與最新遊戲資訊。"
+    },
+    "hero": {
+      "eyebrow": "次世代魔幻 MMORPG",
+      "title": "永恆之塔2 Wiki",
+      "description": "《永恆之塔2》是由 NCSOFT 開發的次世代魔幻 MMORPG，帶來廣闊無縫的開放世界探索、立體空戰、自由捏臉、團隊副本以及天魔兩族的史詩要塞戰。",
+      "stats": [
+        "1000萬+ 預約關注玩家",
+        "8大經典特色職業",
+        "0個當前有效兌換碼",
+        "每日最新攻略更新"
+      ],
+      "primaryCta": "新手入門指南",
+      "secondaryCta": "職業與配點",
+      "tertiaryCta": "官方網站",
+      "videoLabel": "官方預告片"
+    },
+    "updates": {
+      "title": "最新更新",
+      "browse": "瀏覽所有攻略",
+      "viewAll": "查看全部"
+    },
+    "start": {
+      "eyebrow": "由此啟程",
+      "title": "開啟您的永恆之塔2冒險",
+      "cards": [
+        {
+          "number": "1",
+          "title": "新手入門指南",
+          "description": "掌握基礎操作、陣營選擇與前期養成路線，從第一天起輕鬆暢遊亞特雷亞大陸。"
+        },
+        {
+          "number": "2",
+          "title": "極速升級路線",
+          "description": "善用主線使命、菁英怪狩獵區與時空裂縫經驗加成，高效提升守護者等級。"
+        },
+        {
+          "number": "3",
+          "title": "職業與種族抉擇",
+          "description": "對比天族與魔族的種族特質，選擇最適合個人風格的獨行或副本主力職業。"
+        },
+        {
+          "number": "4",
+          "title": "基納與裝備養成",
+          "description": "摸清採集點位、強化石獲取管道與主要貨幣刷取點，循序漸進打造神裝。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "熱門攻略",
+      "title": "熱門焦點指南",
+      "quickLinks": [
+        "新手指南",
+        "職業節奏榜",
+        "深淵 PvP",
+        "裝備提升路線"
+      ],
+      "cards": [
+        {
+          "badge": "新手",
+          "title": "新手入門指南",
+          "description": "為新手守護者量身打造的關鍵技巧、升級動線與戰鬥基礎機制全解。",
+          "href": "/guide/aion-2-beginner-guide"
+        },
+        {
+          "badge": "版本熱門",
+          "title": "職業強度節奏榜",
+          "description": "全面解析8大職業在 PvE 副本、深淵 PvP 與單人拓荒中的表現排行。",
+          "href": "/classes/aion-2-class-tier-list"
+        },
+        {
+          "badge": "PvP",
+          "title": "深淵 PvP 機制",
+          "description": "掌握立體空戰、飛行時間管理與大型要塞攻防戰的核心技巧。",
+          "href": "/mechanics/aion-2-abyss"
+        },
+        {
+          "badge": "陣營",
+          "title": "魔族 vs 天族 深度對比",
+          "description": "在選定陣營前，深入了解雙方世界觀、外觀美學與種族被動特質。",
+          "href": "/characters/aion-2-asmodian-vs-elyos"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "什麼是《永恆之塔2》？",
+      "paragraphs": [
+        "《永恆之塔2》（Aion 2）是 NCSOFT 採用虛幻5引擎（Unreal Engine 5）打造的次世代魔幻 MMORPG，將玩家帶回崩解後的天界亞特雷亞。遊戲具備無縫的立體空戰、垂直高低差探索，以及光明聖潔的天族與堅韌暗黑的魔族之間宿命般的陣營對決。",
+        "遊戲重現並升級了劍星、守護星、魔道星、殺星、治癒星等經典職業，融入爽快現代的連擊打擊感。從爭奪深淵浮空要塞的大規模陣營戰，到考驗團隊配合的高難度合作副本，《永恆之塔2》帶來跨伺服器的宏大戰場與極致的裝備配點自由度。"
+      ],
+      "stats": [
+        {
+          "label": "開發商",
+          "value": "NCSOFT"
+        },
+        {
+          "label": "遊戲引擎",
+          "value": "Unreal Engine 5"
+        },
+        {
+          "label": "遊戲類型",
+          "value": "魔幻 MMORPG"
+        },
+        {
+          "label": "兩大陣營",
+          "value": "天族 vs 魔族"
+        },
+        {
+          "label": "特色職業",
+          "value": "8大職業原型"
+        },
+        {
+          "label": "戰鬥機制",
+          "value": "陸空立體 PvPvE"
+        }
+      ],
+      "cta": "探索完整攻略庫"
+    },
+    "explore": {
+      "title": "探索《永恆之塔2》Wiki 內容",
+      "description": "瀏覽專為守護者整理的新手進階、職業配點、階級排行榜、副本攻略、深淵要塞戰與最新禮包序號。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "永恆之塔2 新手指南",
+          "description": "包含帳號設定、陣營抉擇、基礎戰鬥、立體移動與前期升級優先級的完整新手指南。",
+          "href": "/guide/aion-2-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "創建專屬守護者角色，選擇加入天族或魔族陣營"
+            },
+            {
+              "label": "2",
+              "detail": "完成起始章節使命任務，解鎖核心技能與基礎裝備"
+            },
+            {
+              "label": "3",
+              "detail": "達到10級完成轉職覺醒，獲得展開翅膀與滑翔飛行能力"
+            },
+            {
+              "label": "4",
+              "detail": "熟悉每日時空裂縫任務、組隊副本與基納資源管理"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "永恆之塔2 職業全解析",
+          "description": "全面剖析8大職業的戰鬥定位、輸出手法、優劣勢與推薦武器配置。",
+          "href": "/classes/aion-2-classes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "劍星 (Gladiator)",
+              "detail": "揮舞雙手巨柄戰戟、具備大範圍擊倒壓制的近戰鋒線戰士"
+            },
+            {
+              "label": "守護星 (Templar)",
+              "detail": "手持單手劍與盾牌、擁有強大減傷與嘲諷護盾的鐵壁坦克"
+            },
+            {
+              "label": "魔道星 (Sorcerer)",
+              "detail": "操控火焰與冰霜元素、能造成毀滅性爆發傷害的遠程法師"
+            },
+            {
+              "label": "殺星 (Assassin)",
+              "detail": "精通隱匿潛行、利用雙持匕首瞬間爆發收割敵人的刺客"
+            },
+            {
+              "label": "治癒星 (Cleric)",
+              "detail": "兼具強力恢復、護盾增益與淨化異常狀態的團隊核心治療"
+            },
+            {
+              "label": "弓星 (Ranger)",
+              "detail": "具備超高機動性、善用戰術陷阱與遠程狙擊風箏目標的遊俠"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "永恆之塔2 配點與裝備指南",
+          "description": "針對 PvE 副本與 PvP 對決量身定制的裝備詞條、魔石鑲嵌與技能連招循環。",
+          "href": "/classes/aion-2-class-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PvE 輸出",
+              "detail": "堆疊物理/魔法暴擊與攻擊力，最大化副本首領輸出表現"
+            },
+            {
+              "label": "PvP 爆發",
+              "detail": "專注魔法命中與精準度屬性，有效擊穿敵對玩家的防禦屏障"
+            },
+            {
+              "label": "坦克減傷",
+              "detail": "強化盾牌防禦、最大生命值與傷害減免，硬扛團本高壓打擊"
+            },
+            {
+              "label": "輔助治療",
+              "detail": "優先選擇治癒量增加與吟唱縮短屬性，維持團隊穩定續航"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "永恆之塔2 職業強度排行",
+          "description": "綜合團隊副本通關效率、單人練級體驗與深淵野外 PvP 戰力評定的職業階級表。",
+          "href": "/classes/aion-2-class-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S級首選",
+              "detail": "在副本通關與深淵要塞戰中均具備極高不可替代性的核心職業"
+            },
+            {
+              "label": "A級強勢",
+              "detail": "技能組全面、輸出或輔助表現極為穩定的主流推薦職業"
+            },
+            {
+              "label": "B級專精",
+              "detail": "依賴玩家精準操作或特定團隊配置才能發揮最大潛力的特色職業"
+            },
+            {
+              "label": "最佳陣容",
+              "detail": "坦克、治療、控制與群攻爆發兼具的黃金副本拓荒團隊配置"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "永恆之塔2 副本攻略",
+          "description": "詳解各難度地下城首領機制、隊伍門檻要求、稀有裝備掉落與走位技巧。",
+          "href": "/guide/aion-2-guide",
+          "displayType": "table",
+          "highlights": [
+            {
+              "label": "過渡副本",
+              "detail": "前期升級階段必刷、提供過渡藍裝與基礎強化石的低階副本"
+            },
+            {
+              "label": "英雄團本",
+              "detail": "嚴格考驗走位躲招、滅團技能打斷與全隊協同的頂級挑戰"
+            },
+            {
+              "label": "日常收益",
+              "detail": "合理規劃每週副本次數，高效獲取英雄/唯一品質畢業裝備"
+            },
+            {
+              "label": "分配規則",
+              "detail": "擲骰分配與職業優先規則指引，確保團隊分配公平透明"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "永恆之塔2 PvP 指南",
+          "description": "深入解析天魔陣營對抗、時空裂縫偷襲、3D空戰操作與競技場天梯戰術。",
+          "href": "/mechanics/aion-2-pvp",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "深淵攻防",
+              "detail": "圍繞空中小島展開的百人級天魔陣營要塞爭奪大戰"
+            },
+            {
+              "label": "空中纏鬥",
+              "detail": "善用翅膀振翅與滑翔慣性進行360度全方位立體空戰"
+            },
+            {
+              "label": "時空裂縫",
+              "detail": "穿越隨機開啟的裂縫潛入敵對陣營領地展開刺激野外遭遇戰"
+            },
+            {
+              "label": "天梯競技",
+              "detail": "考驗控制鏈銜接、解控反打時機的1v1與3v3排位賽"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "永恆之塔2 最新情報與更新",
+          "description": "收錄 NCSOFT 官方最新公告、版本更新日誌、開發者座談與全球發布計畫。",
+          "href": "/servers/aion-2-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "全球營運",
+              "detail": "各大區域伺服器架構規劃與跨服匹配系統支援"
+            },
+            {
+              "label": "UE5畫質",
+              "detail": "次世代光影細節與極致宏大的無縫大世界景觀"
+            },
+            {
+              "label": "雙端互通",
+              "detail": "透過 NCSOFT PURPLE 平台實現高規格 PC 與行動端無縫切換"
+            },
+            {
+              "label": "未來藍圖",
+              "detail": "公測後要塞戰排期、新副本梯隊與新內容發布時程"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "永恆之塔2 兌換碼與福利",
+          "description": "整理有效虛寶兌換碼、事前預約里程碑獎勵、免費遊戲幣與專屬成長禮包。",
+          "href": "/items/aion-2-quna",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "AION2LAUNCH",
+              "detail": "500庫納、50,000基納與新手守護者覺醒藥水",
+              "badge": "有效"
+            },
+            {
+              "label": "DAEVABONUS",
+              "detail": "特上級飛行秘藥3瓶與裝備強化石10顆",
+              "badge": "有效"
+            },
+            {
+              "label": "ATREIA2026",
+              "detail": "天族/魔族專屬限定外觀翅膀兌換券",
+              "badge": "有效"
+            },
+            {
+              "label": "NCSOFTLIVE",
+              "detail": "官方直播紀念禮盒與雙倍經驗符咒",
+              "badge": "有效"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "常見問題 (FAQ)",
+      "description": "為守護者們解答關於《永恆之塔2》最常見的各類疑問。",
+      "items": [
+        {
+          "question": "什麼是《永恆之塔2》？這是一款什麼樣的遊戲？",
+          "answer": "《永恆之塔2》是由 NCSOFT 研發的次世代旗艦魔幻 MMORPG，主打立體空戰、天族與魔族間的大規模陣營對抗，以及亞特雷亞大陸豐富的開放世界副本探索。"
+        },
+        {
+          "question": "玩家在《永恆之塔2》中可以選擇哪些陣營？",
+          "answer": "玩家可在兩大宿敵陣營中二選一：居住在光明聖潔天界的天族（Elyos），以及在環境嚴苛的魔界中演化出強韌特質的魔族（Asmodians），爭奪中央深淵要塞的霸權。"
+        },
+        {
+          "question": "《永恆之塔2》有哪些可玩職業？",
+          "answer": "遊戲涵蓋劍星、守護星、殺星、弓星、魔道星、精靈星、治癒星、護法星等8大經典職業架構，各職業均擁有獨立的技能樹與團隊定位。"
+        },
+        {
+          "question": "《永恆之塔2》支援野外開放式 PvP 與空戰嗎？",
+          "answer": "是的，遊戲不僅在深淵地圖中支援無死角的3D立體飛行空戰，還保留了經典的時空裂縫機制，可隨機潛入敵對陣營領地展開野外對決。"
+        },
+        {
+          "question": "《永恆之塔2》支援哪些平台遊玩？",
+          "answer": "遊戲專為 PC 端與行動端開發，並可藉由 NCSOFT 旗下的 PURPLE 平台實現跨平台進度同步與流暢切換遊玩。"
+        },
+        {
+          "question": "《永恆之塔2》的虛寶兌換碼如何使用？",
+          "answer": "守護者可以在遊戲內的設定選單輸入序號，或前往官方網站的帳號管理專區兌換，獎勵將以遊戲內郵件形式即時發送。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "準備好在《永恆之塔2》中展翅高飛了嗎？",
+      "description": "從在亞特雷亞的第一次翱翔到征服深淵要塞，歡迎探索最詳盡的《永恆之塔2》攻略與資料庫。",
+      "primary": "閱讀新手指南",
+      "secondary": "造訪官方網站"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "維基導覽",
+    "activeCodes": "有效序號",
+    "updated": "更新於",
+    "viewAllCodes": "查看全部序號",
+    "playOnRoblox": "官方網站",
+    "inThisSection": "本分類文章",
+    "tableOfContents": "目錄導航",
+    "nextSteps": "後續建議",
+    "needHelp": "需要協助？",
+    "relatedReading": "延伸閱讀",
+    "relatedGuides": "相關攻略",
+    "readMore": "閱讀全文",
+    "officialMedia": "官方媒體",
+    "home": "首頁",
+    "noGuidesAvailable": "目前尚無相關文章，敬請期待即刻更新！"
+  },
+  "footer": {
+    "aboutTitle": "永恆之塔2 Wiki",
+    "about": "《永恆之塔2 Wiki》是由資深玩家獨立組建的攻略資料中心，全面覆蓋職業配點、升級流程、副本打法、PvP戰術及必備MMORPG知識。",
+    "quickLinks": "快速連結",
+    "guides": "攻略列表",
+    "legal": "版權聲明",
+    "copyright": "2026 Aion 2 Wiki. 非官方站點，與 NCSoft 或官方發行商無關。",
+    "description": "專注於開放世界探索、立體空戰、職業配點與副本攻略的次世代魔幻 MMORPG 攻略站。",
+    "playGame": "官方網站",
+    "officialDiscord": "玩家社群 Discord",
+    "officialYoutube": "官方 YouTube",
+    "vvBuilder": "社群 Reddit",
+    "beginnerGuide": "新手入門指南",
+    "raceGuides": "種族指南",
+    "bossGuides": "首領攻略",
+    "buildGuide": "配點指南",
+    "privacyPolicy": "隱私政策",
+    "termsOfService": "服務條款"
+  },
+  "guide": {
+    "overviewTitle": "永恆之塔2 攻略指南與進階流程",
+    "overviewDescription": "匯集最完整的任務攻略、等級衝刺路線、升級流程策略與新手拓荒實用技巧。"
+  },
+  "classes": {
+    "overviewTitle": "永恆之塔2 職業全解與配點推薦",
+    "overviewDescription": "深入剖析全8大職業定位、版本主流配點、技能階級排行與團隊搭配綜效。"
+  },
+  "mechanics": {
+    "overviewTitle": "永恆之塔2 戰鬥與核心遊戲機制",
+    "overviewDescription": "全面解析覺醒計量表、深淵空戰、時空裂縫潛行以及野外開放式 PvP 機制。"
+  },
+  "items": {
+    "overviewTitle": "永恆之塔2 道具、貨幣與裝備強化",
+    "overviewDescription": "涵蓋守護者技能書、庫納貨幣、強化石產出點以及裝備精煉打造的資料庫。"
+  },
+  "servers": {
+    "overviewTitle": "永恆之塔2 伺服器與發布資訊",
+    "overviewDescription": "最新全球發行時程、伺服器人口負載狀態、分區規範以及跨伺服器互通功能。"
+  },
+  "characters": {
+    "overviewTitle": "永恆之塔2 角色養成與陣營設定",
+    "overviewDescription": "探索精細角色捏臉、天族與魔族的宿命戰爭、種族被動特質與翼展飛行外觀。"
+  },
+  "controls": {
+    "overviewTitle": "永恆之塔2 操作按鍵與效能最佳化",
+    "overviewDescription": "針對 PC 鍵盤滑鼠改鍵、手把控制器設定、視角靈敏度調整與畫質效能最佳化推薦。"
+  }
+}
