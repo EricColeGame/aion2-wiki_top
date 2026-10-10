@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/results?search_query=Aion+2+official+trailer",
     reddit: "https://www.reddit.com/r/aion/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ko", "ja", "zh-TW"],
   defaultLocale: "en",
 };
