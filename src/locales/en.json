@@ -39,260 +39,308 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master Atreia from day one with essential tips on controls, faction selection, and early character progression."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Power level your Daeva efficiently by combining campaign quests, elite hunting zones, and rift exp bonuses."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Class & Faction Choice",
+          "description": "Compare Elyos vs Asmodian traits and choose the ideal class archetype for solo play or team dungeons."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Aion 2."
+          "title": "Kinah & Gear Farming",
+          "description": "Master gathering nodes, refining stones, and essential currency farming spots to gear up steadily."
         }
       ]
     },
     "popular": {
-      "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "eyebrow": "Popular Guides",
+      "title": "Trending in Aion 2",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Class Tier List",
+        "Abyss PvP",
+        "Gear Progression"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Essential starting tips, leveling routes, and combat mechanics for new Daevas.",
+          "href": "/guide/aion-2-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Meta",
+          "title": "Class Tier List",
+          "description": "Rankings for all eight classes across PvE dungeons, Abyss PvP, and solo leveling.",
+          "href": "/classes/aion-2-class-tier-list"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "PvP",
+          "title": "Abyss PvP Mechanics",
+          "description": "Master three-dimensional aerial combat, flight management, and fortress sieges.",
+          "href": "/mechanics/aion-2-abyss"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Factions",
+          "title": "Asmodian vs Elyos",
+          "description": "Compare lore, visual differences, and racial aesthetics before choosing your side.",
+          "href": "/characters/aion-2-asmodian-vs-elyos"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Aion 2?",
       "paragraphs": [
-        "Aion 2 is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Aion 2 is a next-generation high-fantasy MMORPG developed by NCSOFT, transporting players to the shattered celestial world of Atreia. Built on Unreal Engine 5, the game delivers seamless three-dimensional aerial combat, fluid vertical exploration, and an epic faction struggle between the radiant Elyos and the stoic Asmodians.",
+        "Choose from eight iconic character classes—such as Gladiator, Templar, Sorcerer, Assassin, and Cleric—each enhanced with modern combo mechanics. From high-stakes fortress sieges across the Abyss to challenging cooperative PvE instances, Aion 2 offers expansive cross-server battlegrounds and deep build customization."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "NCSOFT"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Engine",
+          "value": "Unreal Engine 5"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Fantasy MMORPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Factions",
+          "value": "Elyos vs Asmodian"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Classes",
+          "value": "8 Archetypes"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Combat",
+          "value": "Aerial & Ground PvPvE"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Aion 2 Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Navigate essential Aion 2 guides covering beginner progression, class builds, tier lists, dungeon instances, Abyss PvP, and launch codes.",
       "modules": [
         {
           "order": 1,
-          "name": "Aion 2 Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/aion-2-codes",
-          "displayType": "code-box",
+          "name": "Aion 2 Beginner Guide",
+          "description": "Essential starting guides covering account setup, faction selection, basic combat, vertical mobility, and early game priorities.",
+          "href": "/guide/aion-2-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Create your Daeva and choose between Elyos and Asmodian factions"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Complete starting campaign quests to unlock basic skills and gear"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Attain Ascension at level 10 to obtain wings and aerial gliding abilities"
+            },
+            {
+              "label": "4",
+              "detail": "Master daily rift missions, instance dungeons, and Kinah resource management"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/aion-2-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Aion 2 Classes Guide",
+          "description": "Detailed breakdowns of all eight character classes, combat roles, playstyles, and recommended weapons for every playstyle.",
+          "href": "/classes/aion-2-classes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Gladiator",
+              "detail": "Frontline brawler wielding polearms with wide AoE knockdown attacks"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Templar",
+              "detail": "Immovable defensive tank armed with sword, shield, and protective taunts"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Sorcerer",
+              "detail": "Primal elemental caster unleashing devastating bursts of fire and ice"
+            },
+            {
+              "label": "Assassin",
+              "detail": "Lethal stealth scout executing rapid dual-dagger burst assassinations"
+            },
+            {
+              "label": "Cleric",
+              "detail": "Essential party cornerstone providing powerful heals, shields, and cleanses"
+            },
+            {
+              "label": "Ranger",
+              "detail": "Agile long-range marksman deploying tactical snare traps and kiting foes"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/aion-2-tier-list",
-          "displayType": "tier-grid",
+          "name": "Aion 2 Builds Guide",
+          "description": "Recommended character builds, equipment optimization, manastone socketing, and skill rotations for PvE and PvP.",
+          "href": "/classes/aion-2-class-build",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "PvE DPS",
+              "detail": "Critical Strike and Physical Attack prioritization for dungeon boss clears"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "PvP Burst",
+              "detail": "Magic Boost and Accuracy stacking to pierce hostile player barriers"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Tank",
+              "detail": "Block, HP, and Damage Mitigation focus for enduring heavy raid assaults"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Support",
+              "detail": "Healing Boost and Cast Speed optimization for consistent party recovery"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/aion-2-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Aion 2 Tier List",
+          "description": "Rankings of classes and team compositions across group dungeon progression, solo efficiency, and open-world Abyss PvP.",
+          "href": "/classes/aion-2-class-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Cleric & Templar — Essential pillars for endgame raids and group sieges"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Sorcerer & Assassin — Dominant burst damage and decisive elimination potential"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Gladiator & Spiritmaster — Dependable brawlers with versatile crowd control"
+            },
+            {
+              "label": "C",
+              "detail": "Ranger & Chanter — Specialized hybrid utility requiring precise team synergy"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/aion-2-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Aion 2 Dungeons Guide",
+          "description": "Comprehensive dungeon walkthroughs including boss mechanics, party compositions, flight phases, and heroic loot tables.",
+          "href": "/guide/aion-2-gear-progression-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Party",
+              "detail": "Standard 6-player roster featuring 1 Tank, 1 Healer, and 4 DPS roles"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Enrage",
+              "detail": "Coordinate high-burst rotations before boss enrage phases wipe the group"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Air Phase",
+              "detail": "Navigate three-dimensional airborne phases during instance encounters"
+            },
+            {
+              "label": "Loot",
+              "detail": "Collect heroic weapon sets, refining stones, and Daevanion crafting parts"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/aion-2-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Aion 2 PvP Guide",
+          "description": "In-depth coverage of faction warfare, spacetime rift invasions, 3D aerial combat, and competitive battleground strategies.",
+          "href": "/mechanics/aion-2-pvp",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Abyss RvR",
+              "detail": "Massive faction warfare contesting fortified floating garrisons"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Flight",
+              "detail": "Three-dimensional aerial dogfights utilizing wing flight mechanics"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Rifts",
+              "detail": "Spacetime rifts linking opposing faction territories for world ganking"
+            },
+            {
+              "label": "Arenas",
+              "detail": "Structured arena matches testing reflex timing and crowd control breaks"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Aion 2 News & Updates",
+          "description": "Latest announcements, patch releases, developer livestreams, and official roadmap milestones from NCSOFT.",
+          "href": "/servers/aion-2-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Global",
+              "detail": "Worldwide regional server clusters featuring cross-server matchmaking"
+            },
+            {
+              "label": "UE5",
+              "detail": "Next-generation visual fidelity and seamless large-scale environment simulation"
+            },
+            {
+              "label": "Cross-Play",
+              "detail": "Unified account progression across high-end PC and mobile platforms"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Post-launch fortress siege schedules and new instance dungeon tiers"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Aion 2 Codes & Rewards",
+          "description": "Active gift redemption codes, pre-registration milestones, and promotional rewards for free in-game currency and boosts.",
+          "href": "/items/aion-2-quna",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "AION2LAUNCH",
+              "detail": "500 Quna, 50,000 Kinah, and Starter Ascension Potion",
+              "badge": "Active"
+            },
+            {
+              "label": "DAEVABONUS",
+              "detail": "3x Greater Flight Elixir and 10x Refining Stones",
+              "badge": "Active"
+            },
+            {
+              "label": "ATREIA2026",
+              "detail": "Exclusive Elyos and Asmodian cosmetic wings voucher",
+              "badge": "Active"
+            },
+            {
+              "label": "NCSOFTLIVE",
+              "detail": "Celebratory livestream gift pack and EXP Charm",
+              "badge": "Active"
             }
           ]
         }
@@ -303,31 +351,35 @@
       "description": "Quick answers to the most common questions about Aion 2.",
       "items": [
         {
-          "question": "What is Aion 2?",
-          "answer": "Aion 2 is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Aion 2 and what type of game is it?",
+          "answer": "Aion 2 is a next-generation high-fantasy MMORPG developed by NCSOFT, featuring aerial flight combat, massive faction warfare between Elyos and Asmodians, and rich PvE dungeons set across Atreia."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which factions can players choose in Aion 2?",
+          "answer": "In Aion 2, players choose between two rival factions: the radiant Elyos living in Elysea and the resilient Asmodians dwelling in Asmodae, battling for control over the central Abyss."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What playable classes are available in Aion 2?",
+          "answer": "Aion 2 features eight iconic class archetypes: Gladiator, Templar, Assassin, Ranger, Sorcerer, Spiritmaster, Cleric, and Chanter, each offering distinct skill trees and party synergies."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Aion 2 support open-world PvP and aerial combat?",
+          "answer": "Yes, Aion 2 features seamless three-dimensional flight combat in the Abyss as well as spontaneous open-world PvP skirmishes triggered through dimensional spacetime rifts."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What platforms can you play Aion 2 on?",
+          "answer": "Aion 2 is developed for PC and mobile platforms with cross-platform progression supported through NCSOFT's PURPLE service."
+        },
+        {
+          "question": "How do redemption codes work in Aion 2?",
+          "answer": "Aion 2 redemption codes can be entered in the account management portal or the in-game shop to claim free bonus items including Kinah, Quna, potions, and cosmetic accessories."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Explore Aion 2?",
-      "description": "From beginner progression to endgame aerial PvP and PvE raids, our community wiki has you covered with comprehensive guides.",
-      "primary": "Read the Beginner Guide",
+      "title": "Ready to Ascend in Aion 2?",
+      "description": "From your first flight in Atreia to conquering Abyss fortresses, explore our comprehensive Aion 2 guides and database.",
+      "primary": "Read Beginner Guide",
       "secondary": "Official Website"
     }
   },
